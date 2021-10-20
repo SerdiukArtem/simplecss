@@ -1,0 +1,27 @@
+.section {
+  max-width: 1020px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.header {
+  background-color: #FF0000;
+  color: #ffffff;
+}
+
+.section span {
+  color: #0000ff;
+}
+
+.photo {
+  background-size: 100%;
+  margin: 20px;
+}
+
+.cars img {
+  border: 4px dashed black;
+}
+
+.section span {
+  color: #0000ff;
+}
