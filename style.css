@@ -9,6 +9,9 @@
   color: #ffffff;
 }
 
+p {
+  font-size: 18px;
+}
 .section span {
   color: #0000ff;
 }
@@ -25,4 +28,5 @@
 .footer {
   background-color: rgb(0, 0, 0);
   color: #ffffff;
+  font-size: 20px;
 }
